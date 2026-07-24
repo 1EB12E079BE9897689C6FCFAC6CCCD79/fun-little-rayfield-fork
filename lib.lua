@@ -1,13 +1,11 @@
 --[[
 
-	Rayfield Interface Suite
-	by Sirius
+	i pasted this shiiiiiiiiiiiiiiiiit
+	by whl5
 
-	shlex  | Designing + Programming
-	iRay   | Programming
-	Max    | Programming
-	Damian | Programming
-
+	bbvxy     | pasting
+	whl5      | pasting more
+	cabbitman | skidding
 ]]
 
 if debugX then
@@ -878,7 +876,7 @@ do
 	Rayfield.Main.Search.Shadow.Image = customAssets[tostring(5587865193)]
 	Rayfield.Notifications.Template.Icon.Image = customAssets[tostring(77891951053543)]
 	Rayfield.Notifications.Template.Shadow.Image = customAssets[tostring(3523728077)]
-	Rayfield.Loading.Banner.Image = ''
+	Rayfield.Loading.Banner.Image = nil
 
 end -- custom asset block
 
@@ -1791,7 +1789,7 @@ function RayfieldLibrary:CreateWindow(Settings)
 				if rayfieldDestroyed then break end
 				RayfieldLibrary:Notify({
 					Title = "Rayfield Interface",
-					Content = "Enjoying this UI library? Find it at sirius.menu/discord",
+					Content = "Enjoying this UI library? Fuck you",
 					Duration = 7,
 					Image = 4370033185,
 				})
